@@ -1,4 +1,4 @@
-
+.
  Predicting Babies' Survival Rate Using Random Forest
 This project aims to predict the survival of newborn babies within the first 28 days of life using clinical and maternal data. The model is built using the Random Forest Classifier, chosen for its robustness and interpretability in classification tasks.
 
